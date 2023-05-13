@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there fella! Welcome to my Github Profile!</b></h1>
+  <h1 align="center"><b>Hi there ! Welcome to my Github Profile!</b></h1>
 </p>
 <img src="https://cdn.dribbble.com/users/46123/screenshots/6135335/media/d62020ae4772443ce5fc39f2b022b40c.gif" width="500" />
 
