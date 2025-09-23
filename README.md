@@ -1,75 +1,104 @@
-<!--
-Hi there! This is a template README file. Follow these steps:
-
-Replace ThanhJamie with your actual GitHub username in all the links if it's different.
-
-Fill in your personal information in the sections marked with [...].
-
-Customize the tech stack icons. You can find more icons at: https://skillicons.dev/
-
-Update your social media links.
--->
+<!-- Profile README for ThanhJamie -->
 
 <div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DInter%26size%3D35%26pause%3D1000%26color%3D33A4E4%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DHi%2Bthere!%2BI%27m%2BThanh%2BJamie%3BWelcome%2Bto%2Bmy%2BGitHub%2BProfile!%3BI%27m%2Ba%2BFull-Stack%2BDeveloper" alt="Typing SVG">
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=35&pause=1000&color=33A4E4&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Thanh+Jamie;Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer" alt="Typing SVG">
+  </a>
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
 
-🚀 About Me
-<p align="left">
-Hello! I'm <strong>Thanh Jamie</strong>, a passionate <strong>Full-Stack Developer</strong> dedicated to building and developing useful web applications.
-</p>
+---
 
-🌱 I'm currently diving deeper into AI/ML integration with serverless architectures.
+## 🚀 About Me
+Hello! I'm **Thanh Jamie**, a passionate **Full-Stack Developer** dedicated to building and developing useful web applications.  
 
-👯 I’m open to collaborating on interesting open-source projects, especially in the Next.js and GraphQL ecosystem.
+- 🌱 Currently diving deeper into **AI/ML integration** with serverless architectures.  
+- 👯 Open to collaborating on **open-source projects**, especially in the **Next.js** and **GraphQL** ecosystem.  
+- 💬 Ask me about **React, Next.js, Node.js, and System Design**.  
+- 📫 Reach me at **thanhjamieai@gmail.com**  
+- ⚡ Fun fact: When I'm not coding, I'm usually exploring AI advancements or hunting the best **Phở** in Ho Chi Minh City.  
 
-💬 Feel free to ask me about React, Next.js, Node.js, and System Design.
+---
 
-📫 How to reach me: thanhjamieai@gmail.com
-
-⚡ Fun fact: When I'm not coding, I'm usually exploring the latest advancements in AI or trying to find the best Phở in Ho Chi Minh City.
-
-💻 Tech Stack & Tools
+## 💻 Tech Stack & Tools
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,react,nextjs,nodejs,express,py,java" />
-<br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,mysql,postgres,docker,git,vscode,figma,postman" />
-</a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,java" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,vscode,figma,postman" />
 </p>
 
-📊 My GitHub Stats
+---
+
+## 🚀 Featured Projects
 <p align="center">
-<!-- CHANGE ?username=ThanhJamie TO YOUR USERNAME -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DThanhJamie%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight%26count_private%3Dtrue" alt="ThanhJamie's GitHub Stats" width="48%"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DThanhJamie%26layout%3Dcompact%26langs_count%3D10%26theme%3Dtokyonight" alt="ThanhJamie's Top Languages" width="48%"/>
-<br>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DThanhJamie%26theme%3Dtokyonight" alt="ThanhJamie's Streak Stats" width="60%"/>
+  <a href="https://github.com/ThanhJamie/face_attendance_api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThanhJamie&repo=face_attendance_api&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ThanhJamie/face_attendance_frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThanhJamie&repo=face_attendance_frontend&theme=tokyonight" />
+  </a>
 </p>
 
-🔗 Connect With Me
+---
+
+## 🎓 Certifications
+- AWS Solutions Architect – Associate *(2025, In Progress)*  
+- Coursera: Machine Learning Specialization  
+- Kaggle: Intro to Machine Learning  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-<a href="[YOUR_FACEBOOK_LINK]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="Facebook"/>
-</a>
-<a href="[YOUR_LINKEDIN_LINK]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="mailto:thanhjamieai@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.google.com/search?q=https://chithanhso10.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-33A4E4%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dwhite" alt="Portfolio"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThanhJamie&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhJamie&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhJamie&theme=tokyonight" alt="Streak Stats" width="60%"/>
 </p>
 
+---
+
+## 🏆 Trophies & Achievements
 <p align="center">
-<!-- Make sure to change the username in the link below to your own for the snake animation to work correctly! -->
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/ThanhJamie/ThanhJamie/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThanhJamie&theme=tokyonight&row=1&column=6" alt="Trophies"/>
 </p>
+
+---
+
+## 📈 Contribution Graph
+![Thanh Jamie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThanhJamie&theme=tokyo-night)
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="[YOUR_FACEBOOK_LINK]">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="[YOUR_LINKEDIN_LINK]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:thanhjamieai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://chithanhso10.com">
+    <img src="https://img.shields.io/badge/Portfolio-33A4E4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 🌟 What's Next
+- Building **AI-powered apps** (face recognition, story2video, automation tools).  
+- Exploring **Cloud + Microservices**.  
+- Contributing more to **open-source** in 2025 🚀.  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThanhJamie/ThanhJamie/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
